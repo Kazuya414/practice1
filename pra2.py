@@ -1,2 +1,2 @@
- a =("Hello.Wolrd")
- print=(a)
+for i range(0,100)
+ print("Hello Wolrd")
